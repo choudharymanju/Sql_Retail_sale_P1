@@ -221,8 +221,9 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### Stay Updated and Join the Community
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/manju-choudhary)
+y)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/manju-choudhary-1265a61a9)
 
 Thank you for your support, and I look forward to connecting with you!
+
 
